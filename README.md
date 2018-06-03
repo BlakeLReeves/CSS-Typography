@@ -4,3 +4,7 @@
 * color
 * text-decoration
 * text-align
+# CSS Borders
+* border
+* box-shadow
+* hr

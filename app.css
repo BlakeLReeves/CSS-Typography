@@ -1,6 +1,11 @@
 body {
     font-family: 'Lato', sans-serif;
     margin: 0;
+    background: url('./andromedo.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    color: white;
 }
 
 form {
@@ -8,7 +13,6 @@ form {
     margin: 0 auto;
     width: 116px;
     border: 1px solid black;
-    border-radius: 5px;
     box-shadow: 7px 13px 30px -4px rgba(0,0,0,0.75);
 }
 

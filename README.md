@@ -8,3 +8,8 @@
 * border
 * box-shadow
 * hr
+# CSS Backgrounds
+* background
+* background-size
+* background-position
+* background-repeat
